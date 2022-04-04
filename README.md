@@ -1,5 +1,7 @@
 <h3 align="center">Hi 👋, I'm Muhammad Saeful Rahmat</h1>
-<h4 align="center">I School At SMKN 2 KOTA BEKASI at Indonesia</h1>
+<p align="center">I School At SMKN 2 KOTA BEKASI at Indonesia</p>
+
+<br>
 
 <h3 align="left">Kontak Dengan Saya :</h3>
 <p align="left"> 
