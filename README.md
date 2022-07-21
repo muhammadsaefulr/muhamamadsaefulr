@@ -3,8 +3,8 @@
 
 <br>
 
-<h3 align="left">Kontak Dengan Saya :</h3>
-<p align="left"> 
+<h3 align="center">Kontak Dengan Saya :</h3>
+<p align="center"> 
   <a href="https://facebook.com/saepulID" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="SaepulID" height="30" width="40" /></a> 
