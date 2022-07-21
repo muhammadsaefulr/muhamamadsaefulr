@@ -2,7 +2,7 @@
 <p align="center">I School At SMKN 2 KOTA BEKASI at Indonesia</p>
 
 <br>
-<center>
+
 <h3 align="left">Kontak Dengan Saya :</h3>
 <p align="left"> 
   <a href="https://facebook.com/saepulID" target="blank"><img align="center"
@@ -20,11 +20,16 @@
 </p>
 
 <br>
-<center>
+
 <h3>Statistical Data :</h3>
 <p><img align-item="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamamadsaefulr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="muhamamadsaefulr" 
     bg_color=#808080/></p>
+
+
+  <p align="center"><a href="https://github.com/muhammadsaefulr"><img src="https://github-readme-stats.vercel.app/api?username=muhammadsaefulr&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/muhammadsaefulr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaefulr&theme=radical&layout=compact"></a></p>
+  
 
 
