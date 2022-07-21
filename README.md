@@ -1,5 +1,7 @@
 <h3 align="center">Hi 👋, I'm Muhammad Saeful Rahmat</h1>
 <p align="center">I School At SMKN 2 KOTA BEKASI at Indonesia</p>
+<p align="center">Im 16'Years Old</p>
+
 
 <br>
 
@@ -28,5 +30,24 @@
   <p align="center"><a href="https://github.com/muhammadsaefulr"><img src="https://github-readme-stats.vercel.app/api?username=muhammadsaefulr&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/muhammadsaefulr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaefulr&theme=radical&layout=compact"></a></p>
   
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=fatiharridho)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/fatiharridho)
+
+</details> 
 
