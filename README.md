@@ -21,11 +21,8 @@
 
 <br>
 
-<h3>Statistical Data :</h3>
-<p><img align-item="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsaefulr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="muhamamadsaefulr" 
-    bg_color=#808080/></p>
+
+
 
 
   <p align="center"><a href="https://github.com/muhammadsaefulr"><img src="https://github-readme-stats.vercel.app/api?username=muhammadsaefulr&show_icons=true&theme=radical"></a></p>
