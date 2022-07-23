@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://c.tenor.com/ElYWQ5bj2WsAAAAC/seraph-of-the-end-shinoa.gif" style="width: 210px">
+  </p>
 <h3 align="center">Hi 👋, I'm Muhammad Saeful Rahmat</h1>
 <p align="center">I School At SMKN 2 KOTA BEKASI at Indonesia</p>
 <p align="center">Im 16'Years Old</p>
